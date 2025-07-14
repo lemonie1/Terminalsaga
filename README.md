@@ -1,8 +1,6 @@
-# 🧅 Reveno RPG
+#  <img src="New Piskel.gif" width="480"/> Terminalsaga  <img src="New Piskel.gif" width="480"/>
 
-<p align="center">
-  <img src="New Piskel.gif" width="480"/>
-</p>
+
 
 Welcome to **Reveno**, a terminal-based RPG coded in Python by Ron.  
 This is a sneak peek of Onion’s rage arc and the typing engine in action.
