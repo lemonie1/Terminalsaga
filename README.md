@@ -1,17 +1,18 @@
-#  <img src="New Piskel.gif" width="480"/> Terminalsaga  <img src="New Piskel.gif" width="480"/>
+# <img src="New Piskel.gif" width="24"/> Terminalsaga <img src="New Piskel.gif" width="24"/>
 
+<p> Terminalsaga, where you do terminal RPG stuff.
 
-
-Welcome to **Reveno**, a terminal-based RPG coded in Python by Ron.  
-This is a sneak peek of Onion’s rage arc and the typing engine in action.
+Welcome to **Terminalsaga**, a terminal-based RPG coded in Python by me.
+Yep, this is another one of my extremely stupid projects to 'learn'
 
 ---
 
-## ▶️ How to Run
-
-1. Download Python 3
-2. Clone this repo
-3. Run `main.py` in your terminal:
-
 ```bash
-python main.py
+ imgoingtokillmyself.py
+```
+
+---
+
+Goals:
+ADD CLI ART!
+
